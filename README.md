@@ -24,7 +24,7 @@ Mediapipe
 
 Clone repository ini:
 
-git clone https://github.com/username/hand_gesture.git
+git clone https://github.com/nfldffa/hand_gesture.git
 cd hand_gesture
 
 Buat virtual environment (opsional tetapi disarankan):
